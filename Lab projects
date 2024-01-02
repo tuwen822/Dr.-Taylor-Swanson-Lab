@@ -31,6 +31,16 @@
             </ul>
         </div>
 
+        <div class="project">
+            <h3>Hispanic.MENOGAP - Sin Reglas</h3>
+            <ul>
+                <li>Ana Sanchez-Birkhead</li>
+                <li>Isabel Dulfano</li>
+                <li>Camille Moreno</li>
+                <li>Jeannette Villalta</li>
+            </ul>
+        </div>
+
         <!-- Repeat similar structure for other projects -->
 
     </section>
